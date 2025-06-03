@@ -1,3 +1,4 @@
+
 # python
 
 def charCounter(str):
@@ -7,3 +8,4 @@ def charCounter(str):
     return counter
 
 print(charCounter('Michael'))
+# im just adding comments for ease
